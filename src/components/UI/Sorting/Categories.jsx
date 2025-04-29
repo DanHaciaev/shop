@@ -26,8 +26,8 @@ export class Categories extends Component {
                     name: 'Book'
                 },
                 {
-                    key: 'custom',
-                    name: 'Custom'
+                    key: 'costum',
+                    name: 'Costum'
                 },
                 {
                     key: 'candies',
