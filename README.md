@@ -30,6 +30,11 @@ This shop highlights the beauty of Moldovan culture and helps people around the 
 
 **Danila** – beginner frontend developer
 
+## 🌐 Live Demo
+
+You can check out the live version of the project here:  
+👉 [Moldovan Traditional Shop](https://shop-mocha-two.vercel.app/)
+
 ## 📸 Screenshots
 
 ### 🏠 Hello Section
